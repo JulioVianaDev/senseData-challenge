@@ -1,0 +1,44 @@
+.input{
+  background-color: #7f858f;
+  height: 30px;
+  border-radius: 8px;
+  border: 1px white solid;
+  color: white;
+  margin: 2px;
+  width: 200px;
+}
+#buttonCadastrar{
+  border-radius: 20px;
+  background: #9747FF;
+  margin: 10px;
+
+  /* Small */
+  border: none;
+  display: flex;
+  width: 210px;
+  height: 44px;
+  padding: 7px 15px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: #FFF;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #11224B;
+  color: #fff;
+  width: 400px;
+  height: 400px;
+  border-radius: 8px;
+}
+.input option{
+  width: 400px;
+}

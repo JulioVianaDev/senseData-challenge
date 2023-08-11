@@ -1,0 +1,15 @@
+.valorGasto{
+  width: 256px;
+  height: 256px;
+  background-color: #11224B;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  font-size: 20px;
+  flex-direction: column;
+  color:#9747FF;
+}
